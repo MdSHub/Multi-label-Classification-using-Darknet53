@@ -1,4 +1,6 @@
-Multi Label Classification
+
+
+Multi Label Classification	
 Daknet53 used as a base architecture and weights are pretrained on the imagenet Dataset which can be downloaded using official sites(links are provided below)
 Classification based on regression.
 Training is done on the 106 layer architecture .CFG file is provided for Architecture Configuration which can be build using Either
