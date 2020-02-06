@@ -11,5 +11,6 @@ You can run the above code in windows and ubuntu platforms.
 You dont need any GPU for the above code to Labelling the input image or videos.It is working fine on i3 with 4 gb Ram.
 
 Officials weight file link https://pjreddie.com/media/files/yolov3.weights
-
+You have to download the weight file  and store in Configuration folder with a  name "network.weights".
+Install all the libraries needed to run the code.
 
