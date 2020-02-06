@@ -13,4 +13,4 @@ You dont need any GPU for the above code to Labelling the input image or videos.
 Officials weight file link https://pjreddie.com/media/files/yolov3.weights
 You have to download the weight file  and store in Configuration folder with a  name "network.weights".
 Install all the libraries needed to run the code.
-
+Make a Folder Names "output" for the output of images and videos
